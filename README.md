@@ -2,7 +2,7 @@
 
 <!--
 **Arin-OSU/Arin-OSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My name Arin I'm Currently a student at the Ohio State University with an interest in Articifical intelligence. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
